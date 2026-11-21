@@ -10,7 +10,7 @@
 - Certificate : Pending
 
 ## LeetCode
-- Profile URL : https://leetcode.com/u/parammaan0511
+- Profile URL : https://leetcode.com/u/UXQa9GTMQ5/
 - Easy attempted : 2 (Two Sum, Palindrome Number)
 - Easy solved : 2
 - Medium attempted : 0
