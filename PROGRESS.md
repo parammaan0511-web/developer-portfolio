@@ -1,5 +1,5 @@
 # Coding Platform Progress Tracker
-# Updated: November 21, 2026
+# Updated: November 25, 2026
 
 ---
 
@@ -7,7 +7,7 @@
 - Profile URL : https://www.hackerrank.com/profile/parammaan0511
 - Problems solved : 3 (Say Hello, Python If-Else, Arithmetic Operators)
 - Skill test taken : Python (Basic)
-- Certificate : Pending
+- Certificate : Earned (HackerRank Python Basic Verified)
 
 ## LeetCode
 - Profile URL : https://leetcode.com/u/UXQa9GTMQ5/
@@ -23,14 +23,15 @@
 ---
 
 ## Weekly Goals (update every Monday)
-Week of November 21, 2026:
+Week of November 25, 2026:
 [x] 3 HackerRank Python problems
+[x] HackerRank Python (Basic) Skill Test & Certificate
 [x] 2 LeetCode Easy problems
 [x] 25+ freeCodeCamp steps (32 completed)
 
 ---
 
 ## Monthly Milestones
-Month 1 : Complete 10 HackerRank problems, attempt Python Basic test
+Month 1 : Complete 10 HackerRank problems & earn Python (Basic) certificate (Certificate Earned!)
 Month 2 : Solve 10 LeetCode Easy problems, complete HTML LAB on freeCodeCamp
-Month 3 : Earn HackerRank Python Basic certificate, reach 25 LeetCode Easy problems
+Month 3 : Reach 25 LeetCode Easy problems & continue Responsive Web Design track
